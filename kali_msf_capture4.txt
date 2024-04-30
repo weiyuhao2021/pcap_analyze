@@ -1,0 +1,175 @@
+
+####################
+Packet ID: 1
+链路层
+Src Mac: 00:0c:29:1f:78:ce
+Dst Mac: 01:00:5e:7f:ff:fa
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.131
+Dst IP: 239.255.255.250
+Ip Protocol: 17
+传输层
+UDP Packet Detected
+Src Port: 64224
+Dst Port: 1900
+Len: 183
+CheckSum: 0xa66d
+应用层
+Other Application Protocol based on TCP.
+
+####################
+Packet ID: 2
+链路层
+Src Mac: 00:0c:29:1f:78:ce
+Dst Mac: 01:00:5e:7f:ff:fa
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.131
+Dst IP: 239.255.255.250
+Ip Protocol: 17
+传输层
+UDP Packet Detected
+Src Port: 64224
+Dst Port: 1900
+Len: 183
+CheckSum: 0xa66d
+应用层
+Other Application Protocol based on TCP.
+
+####################
+Packet ID: 3
+链路层
+Src Mac: 00:0c:29:bf:0f:9a
+Dst Mac: 00:0c:29:1f:78:ce
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.137
+Dst IP: 192.168.38.131
+Ip Protocol: 6
+传输层
+TCP Packet Detected
+Src Port: 43093
+Dst Port: 445
+Seq Number: 1215421286
+0
+Flag: 0x02
+Flags:[SYN, ]
+Connection Stage: Connection initiation
+应用层
+Other Application Protocol based on TCP.
+
+####################
+Packet ID: 4
+链路层
+Src Mac: 00:0c:29:1f:78:ce
+Dst Mac: ff:ff:ff:ff:ff:ff
+Ethernet Type: 0x0806
+网络层
+ARP Packet Detected
+
+####################
+Packet ID: 5
+链路层
+Src Mac: 00:0c:29:bf:0f:9a
+Dst Mac: 00:0c:29:1f:78:ce
+Ethernet Type: 0x0806
+网络层
+ARP Packet Detected
+
+####################
+Packet ID: 6
+链路层
+Src Mac: 00:0c:29:1f:78:ce
+Dst Mac: 00:0c:29:bf:0f:9a
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.131
+Dst IP: 192.168.38.137
+Ip Protocol: 6
+传输层
+TCP Packet Detected
+Src Port: 445
+Dst Port: 43093
+Seq Number: 2640527673
+1215421287
+Flag: 0x12
+Flags:[SYN, ACK, ]
+Connection Stage: SYN-ACK
+应用层
+Other Application Protocol based on TCP.
+
+####################
+Packet ID: 7
+链路层
+Src Mac: 00:0c:29:bf:0f:9a
+Dst Mac: 00:0c:29:1f:78:ce
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.137
+Dst IP: 192.168.38.131
+Ip Protocol: 6
+传输层
+TCP Packet Detected
+Src Port: 43093
+Dst Port: 445
+Seq Number: 1215421287
+2640527674
+Flag: 0x10
+Flags:[ACK, ]
+Connection Stage: Connection established or ongoing
+应用层
+Other Application Protocol based on TCP.
+
+####################
+Packet ID: 8
+链路层
+Src Mac: 00:0c:29:bf:0f:9a
+Dst Mac: 00:0c:29:1f:78:ce
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.137
+Dst IP: 192.168.38.131
+Ip Protocol: 6
+传输层
+TCP Packet Detected
+Src Port: 43093
+Dst Port: 445
+Seq Number: 1215421287
+2640527674
+Flag: 0x18
+Flags:[PSH, ACK, ]
+Connection Stage: Connection established or ongoing
+应用层
+Other Application Protocol based on TCP.
+
+####################
+Packet ID: 9
+链路层
+Src Mac: 00:0c:29:1f:78:ce
+Dst Mac: 00:0c:29:bf:0f:9a
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.131
+Dst IP: 192.168.38.137
+Ip Protocol: 6
+传输层
+TCP Packet Detected
+Src Port: 445
+Dst Port: 43093
+Seq Number: 2640527674
+1215421375
+Flag: 0x14
+Flags:[RST, ACK, ]
+Connection Stage: Connection established or ongoing
+应用层
+Other Application Protocol based on TCP.
+
+read end of pcap file

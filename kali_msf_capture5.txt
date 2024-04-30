@@ -1,0 +1,460 @@
+
+####################
+Packet ID: 1
+链路层
+Src Mac: 00:0c:29:bf:0f:9a
+Dst Mac: 00:0c:29:1f:78:ce
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.137
+Dst IP: 192.168.38.131
+Ip Protocol: 6
+传输层
+TCP Packet Detected
+Src Port: 33905
+Dst Port: 445
+Seq Number: 712666554
+0
+Flag: 0x02
+Flags:[SYN, ]
+Connection Stage: Connection initiation
+too short for detect http or TLS or DNS
+应用层
+Other Application Protocol based on TCP.
+
+####################
+Packet ID: 2
+链路层
+Src Mac: 00:0c:29:1f:78:ce
+Dst Mac: 00:0c:29:bf:0f:9a
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.131
+Dst IP: 192.168.38.137
+Ip Protocol: 6
+传输层
+TCP Packet Detected
+Src Port: 445
+Dst Port: 33905
+Seq Number: 3030420582
+712666555
+Flag: 0x12
+Flags:[SYN, ACK, ]
+Connection Stage: SYN-ACK
+too short for detect http or TLS or DNS
+应用层
+Other Application Protocol based on TCP.
+
+####################
+Packet ID: 3
+链路层
+Src Mac: 00:0c:29:bf:0f:9a
+Dst Mac: 00:0c:29:1f:78:ce
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.137
+Dst IP: 192.168.38.131
+Ip Protocol: 6
+传输层
+TCP Packet Detected
+Src Port: 33905
+Dst Port: 445
+Seq Number: 712666555
+3030420583
+Flag: 0x10
+Flags:[ACK, ]
+Connection Stage: Connection established or ongoing
+too short for detect http or TLS or DNS
+应用层
+Other Application Protocol based on TCP.
+
+####################
+Packet ID: 4
+链路层
+Src Mac: 00:0c:29:bf:0f:9a
+Dst Mac: 00:0c:29:1f:78:ce
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.137
+Dst IP: 192.168.38.131
+Ip Protocol: 6
+传输层
+TCP Packet Detected
+Src Port: 33905
+Dst Port: 445
+Seq Number: 712666555
+3030420583
+Flag: 0x18
+Flags:[PSH, ACK, ]
+Connection Stage: Connection established or ongoing
+应用层
+Other Application Protocol based on TCP.
+
+####################
+Packet ID: 5
+链路层
+Src Mac: 00:0c:29:1f:78:ce
+Dst Mac: 00:0c:29:bf:0f:9a
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.131
+Dst IP: 192.168.38.137
+Ip Protocol: 6
+传输层
+TCP Packet Detected
+Src Port: 445
+Dst Port: 33905
+Seq Number: 3030420583
+712666643
+Flag: 0x14
+Flags:[RST, ACK, ]
+Connection Stage: Connection established or ongoing
+too short for detect http or TLS or DNS
+应用层
+Other Application Protocol based on TCP.
+
+####################
+Packet ID: 6
+链路层
+Src Mac: 00:0c:29:1f:78:ce
+Dst Mac: 00:50:56:e7:53:92
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.131
+Dst IP: 23.48.229.154
+Ip Protocol: 6
+传输层
+TCP Packet Detected
+Src Port: 49794
+Dst Port: 443
+Seq Number: 4081311922
+1211665126
+Flag: 0x11
+Flags:[FIN, ACK, ]
+Connection Stage: Connection established or ongoing
+too short for detect http or TLS or DNS
+应用层
+Other Application Protocol based on TCP.
+
+####################
+Packet ID: 7
+链路层
+Src Mac: 00:0c:29:1f:78:ce
+Dst Mac: 00:50:56:e7:53:92
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.131
+Dst IP: 23.48.229.154
+Ip Protocol: 6
+传输层
+TCP Packet Detected
+Src Port: 49795
+Dst Port: 443
+Seq Number: 3211375005
+471963542
+Flag: 0x11
+Flags:[FIN, ACK, ]
+Connection Stage: Connection established or ongoing
+too short for detect http or TLS or DNS
+应用层
+Other Application Protocol based on TCP.
+
+####################
+Packet ID: 8
+链路层
+Src Mac: 00:0c:29:1f:78:ce
+Dst Mac: 00:50:56:e7:53:92
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.131
+Dst IP: 23.48.229.154
+Ip Protocol: 6
+传输层
+TCP Packet Detected
+Src Port: 49802
+Dst Port: 443
+Seq Number: 2512126986
+2009878196
+Flag: 0x11
+Flags:[FIN, ACK, ]
+Connection Stage: Connection established or ongoing
+too short for detect http or TLS or DNS
+应用层
+Other Application Protocol based on TCP.
+
+####################
+Packet ID: 9
+链路层
+Src Mac: 00:50:56:e7:53:92
+Dst Mac: 00:0c:29:1f:78:ce
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 23.48.229.154
+Dst IP: 192.168.38.131
+Ip Protocol: 6
+传输层
+TCP Packet Detected
+Src Port: 443
+Dst Port: 49794
+Seq Number: 1211665126
+4081311923
+Flag: 0x10
+Flags:[ACK, ]
+Connection Stage: Connection established or ongoing
+too short for detect http or TLS or DNS
+应用层
+Other Application Protocol based on TCP.
+
+####################
+Packet ID: 10
+链路层
+Src Mac: 00:0c:29:1f:78:ce
+Dst Mac: 00:50:56:e7:53:92
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.131
+Dst IP: 23.48.229.99
+Ip Protocol: 6
+传输层
+TCP Packet Detected
+Src Port: 49793
+Dst Port: 443
+Seq Number: 4237754391
+2125297418
+Flag: 0x11
+Flags:[FIN, ACK, ]
+Connection Stage: Connection established or ongoing
+too short for detect http or TLS or DNS
+应用层
+Other Application Protocol based on TCP.
+
+####################
+Packet ID: 11
+链路层
+Src Mac: 00:50:56:e7:53:92
+Dst Mac: 00:0c:29:1f:78:ce
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 23.48.229.154
+Dst IP: 192.168.38.131
+Ip Protocol: 6
+传输层
+TCP Packet Detected
+Src Port: 443
+Dst Port: 49795
+Seq Number: 471963542
+3211375006
+Flag: 0x10
+Flags:[ACK, ]
+Connection Stage: Connection established or ongoing
+too short for detect http or TLS or DNS
+应用层
+Other Application Protocol based on TCP.
+
+####################
+Packet ID: 12
+链路层
+Src Mac: 00:50:56:e7:53:92
+Dst Mac: 00:0c:29:1f:78:ce
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 23.48.229.154
+Dst IP: 192.168.38.131
+Ip Protocol: 6
+传输层
+TCP Packet Detected
+Src Port: 443
+Dst Port: 49802
+Seq Number: 2009878196
+2512126987
+Flag: 0x10
+Flags:[ACK, ]
+Connection Stage: Connection established or ongoing
+too short for detect http or TLS or DNS
+应用层
+Other Application Protocol based on TCP.
+
+####################
+Packet ID: 13
+链路层
+Src Mac: 00:50:56:e7:53:92
+Dst Mac: 00:0c:29:1f:78:ce
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 23.48.229.99
+Dst IP: 192.168.38.131
+Ip Protocol: 6
+传输层
+TCP Packet Detected
+Src Port: 443
+Dst Port: 49793
+Seq Number: 2125297418
+4237754392
+Flag: 0x10
+Flags:[ACK, ]
+Connection Stage: Connection established or ongoing
+too short for detect http or TLS or DNS
+应用层
+Other Application Protocol based on TCP.
+
+####################
+Packet ID: 14
+链路层
+Src Mac: 00:50:56:e7:53:92
+Dst Mac: 00:0c:29:1f:78:ce
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 23.48.229.154
+Dst IP: 192.168.38.131
+Ip Protocol: 6
+传输层
+TCP Packet Detected
+Src Port: 443
+Dst Port: 49802
+Seq Number: 2009878196
+2512126987
+Flag: 0x18
+Flags:[PSH, ACK, ]
+Connection Stage: Connection established or ongoing
+应用层
+TLS
+TLS Content Type: 21, Version: 0x0303, Length: 26
+TLS Alert
+TLS version 1.2
+
+####################
+Packet ID: 15
+链路层
+Src Mac: 00:50:56:e7:53:92
+Dst Mac: 00:0c:29:1f:78:ce
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 23.48.229.154
+Dst IP: 192.168.38.131
+Ip Protocol: 6
+传输层
+TCP Packet Detected
+Src Port: 443
+Dst Port: 49802
+Seq Number: 2009878227
+2512126987
+Flag: 0x19
+Flags:[FIN, PSH, ACK, ]
+Connection Stage: Connection established or ongoing
+too short for detect http or TLS or DNS
+应用层
+Other Application Protocol based on TCP.
+
+####################
+Packet ID: 16
+链路层
+Src Mac: 00:0c:29:1f:78:ce
+Dst Mac: 00:50:56:e7:53:92
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.131
+Dst IP: 23.48.229.154
+Ip Protocol: 6
+传输层
+TCP Packet Detected
+Src Port: 49802
+Dst Port: 443
+Seq Number: 2512126987
+2009878227
+Flag: 0x14
+Flags:[RST, ACK, ]
+Connection Stage: Connection established or ongoing
+too short for detect http or TLS or DNS
+应用层
+Other Application Protocol based on TCP.
+
+####################
+Packet ID: 17
+链路层
+Src Mac: 00:0c:29:1f:78:ce
+Dst Mac: 00:50:56:e7:53:92
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.131
+Dst IP: 23.48.229.154
+Ip Protocol: 6
+传输层
+TCP Packet Detected
+Src Port: 49802
+Dst Port: 443
+Seq Number: 2512126987
+2512126987
+Flag: 0x04
+Flags:[RST, ]
+too short for detect http or TLS or DNS
+应用层
+Other Application Protocol based on TCP.
+
+####################
+Packet ID: 18
+链路层
+Src Mac: 00:50:56:e7:53:92
+Dst Mac: 00:0c:29:1f:78:ce
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 23.48.229.99
+Dst IP: 192.168.38.131
+Ip Protocol: 6
+传输层
+TCP Packet Detected
+Src Port: 443
+Dst Port: 49793
+Seq Number: 2125297418
+4237754392
+Flag: 0x19
+Flags:[FIN, PSH, ACK, ]
+Connection Stage: Connection established or ongoing
+应用层
+TLS
+TLS Content Type: 21, Version: 0x0303, Length: 26
+TLS Alert
+TLS version 1.2
+
+####################
+Packet ID: 19
+链路层
+Src Mac: 00:0c:29:1f:78:ce
+Dst Mac: 00:50:56:e7:53:92
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.131
+Dst IP: 23.48.229.99
+Ip Protocol: 6
+传输层
+TCP Packet Detected
+Src Port: 49793
+Dst Port: 443
+Seq Number: 4237754392
+2125297449
+Flag: 0x14
+Flags:[RST, ACK, ]
+Connection Stage: Connection established or ongoing
+too short for detect http or TLS or DNS
+应用层
+Other Application Protocol based on TCP.
+
+read end of pcap file

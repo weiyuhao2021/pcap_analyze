@@ -1,0 +1,194 @@
+
+####################
+Packet ID: 1
+链路层
+Src Mac: 00:0c:29:bf:0f:9a
+Dst Mac: ff:ff:ff:ff:ff:ff
+Ethernet Type: 0x0806
+网络层
+ARP Packet Detected
+
+####################
+Packet ID: 2
+链路层
+Src Mac: 00:0c:29:42:28:63
+Dst Mac: 00:0c:29:bf:0f:9a
+Ethernet Type: 0x0806
+网络层
+ARP Packet Detected
+
+####################
+Packet ID: 3
+链路层
+Src Mac: 00:0c:29:bf:0f:9a
+Dst Mac: 00:0c:29:42:28:63
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.137
+Dst IP: 192.168.38.138
+Ip Protocol: 6
+传输层
+TCP Packet Detected
+Src Port: 44803
+Dst Port: 4444
+Seq Number: 2038298429
+0
+Flag: 0x02
+Flags:[SYN, ]
+Connection Stage: Connection initiation
+too short for detect http or TLS or DNS
+应用层
+Other Application Protocol based on TCP.
+
+####################
+Packet ID: 4
+链路层
+Src Mac: 00:0c:29:42:28:63
+Dst Mac: 00:0c:29:bf:0f:9a
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.138
+Dst IP: 192.168.38.137
+Ip Protocol: 6
+传输层
+TCP Packet Detected
+Src Port: 4444
+Dst Port: 44803
+Seq Number: 0
+2038298430
+Flag: 0x14
+Flags:[RST, ACK, ]
+Connection Stage: Connection established or ongoing
+too short for detect http or TLS or DNS
+应用层
+Other Application Protocol based on TCP.
+
+####################
+Packet ID: 5
+链路层
+Src Mac: 00:0c:29:bf:0f:9a
+Dst Mac: 00:0c:29:42:28:63
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.137
+Dst IP: 192.168.38.138
+Ip Protocol: 6
+传输层
+TCP Packet Detected
+Src Port: 40671
+Dst Port: 445
+Seq Number: 885016072
+0
+Flag: 0x02
+Flags:[SYN, ]
+Connection Stage: Connection initiation
+too short for detect http or TLS or DNS
+应用层
+Other Application Protocol based on TCP.
+
+####################
+Packet ID: 6
+链路层
+Src Mac: 00:0c:29:42:28:63
+Dst Mac: 00:0c:29:bf:0f:9a
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.138
+Dst IP: 192.168.38.137
+Ip Protocol: 6
+传输层
+TCP Packet Detected
+Src Port: 445
+Dst Port: 40671
+Seq Number: 0
+885016073
+Flag: 0x14
+Flags:[RST, ACK, ]
+Connection Stage: Connection established or ongoing
+too short for detect http or TLS or DNS
+应用层
+Other Application Protocol based on TCP.
+
+####################
+Packet ID: 7
+链路层
+Src Mac: 00:50:56:c0:00:08
+Dst Mac: 01:00:5e:7f:ff:fa
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.1
+Dst IP: 239.255.255.250
+Ip Protocol: 17
+传输层
+UDP Packet Detected
+Src Port: 56577
+Dst Port: 1900
+Len: 183
+CheckSum: 0xdcfd
+应用层
+Other Application Protocol based on TCP.
+
+####################
+Packet ID: 8
+链路层
+Src Mac: 00:50:56:c0:00:08
+Dst Mac: 01:00:5e:7f:ff:fa
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.1
+Dst IP: 239.255.255.250
+Ip Protocol: 17
+传输层
+UDP Packet Detected
+Src Port: 56577
+Dst Port: 1900
+Len: 183
+CheckSum: 0xdcfd
+应用层
+Other Application Protocol based on TCP.
+
+####################
+Packet ID: 9
+链路层
+Src Mac: 00:0c:29:42:28:63
+Dst Mac: 00:0c:29:bf:0f:9a
+Ethernet Type: 0x0806
+网络层
+ARP Packet Detected
+
+####################
+Packet ID: 10
+链路层
+Src Mac: 00:0c:29:bf:0f:9a
+Dst Mac: 00:0c:29:42:28:63
+Ethernet Type: 0x0806
+网络层
+ARP Packet Detected
+
+####################
+Packet ID: 11
+链路层
+Src Mac: 00:50:56:c0:00:08
+Dst Mac: 01:00:5e:7f:ff:fa
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.1
+Dst IP: 239.255.255.250
+Ip Protocol: 17
+传输层
+UDP Packet Detected
+Src Port: 56577
+Dst Port: 1900
+Len: 183
+CheckSum: 0xdcfd
+应用层
+Other Application Protocol based on TCP.
+
+read end of pcap file

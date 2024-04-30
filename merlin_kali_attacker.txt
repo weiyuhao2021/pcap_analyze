@@ -1,0 +1,2575 @@
+
+####################
+Packet ID: 1
+链路层
+Src Mac: 00:0c:29:42:28:63
+Dst Mac: 00:50:56:e7:53:92
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.138
+Dst IP: 114.114.114.114
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 2
+链路层
+Src Mac: 00:50:56:e7:53:92
+Dst Mac: 00:0c:29:42:28:63
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 114.114.114.114
+Dst IP: 192.168.38.138
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 3
+链路层
+Src Mac: 00:0c:29:42:28:63
+Dst Mac: 00:50:56:e7:53:92
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.138
+Dst IP: 114.114.114.114
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 4
+链路层
+Src Mac: 00:50:56:e7:53:92
+Dst Mac: 00:0c:29:42:28:63
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 114.114.114.114
+Dst IP: 192.168.38.138
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 5
+链路层
+Src Mac: 00:0c:29:42:28:63
+Dst Mac: 00:50:56:e7:53:92
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.138
+Dst IP: 114.114.114.114
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 6
+链路层
+Src Mac: 00:50:56:e7:53:92
+Dst Mac: 00:0c:29:42:28:63
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 114.114.114.114
+Dst IP: 192.168.38.138
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 7
+链路层
+Src Mac: 00:0c:29:42:28:63
+Dst Mac: 00:50:56:e7:53:92
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.138
+Dst IP: 114.114.114.114
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 8
+链路层
+Src Mac: 00:50:56:e7:53:92
+Dst Mac: 00:0c:29:42:28:63
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 114.114.114.114
+Dst IP: 192.168.38.138
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 9
+链路层
+Src Mac: 00:0c:29:42:28:63
+Dst Mac: 00:50:56:e7:53:92
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.138
+Dst IP: 114.114.114.114
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 10
+链路层
+Src Mac: 00:50:56:e7:53:92
+Dst Mac: 00:0c:29:42:28:63
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 114.114.114.114
+Dst IP: 192.168.38.138
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 11
+链路层
+Src Mac: 00:0c:29:42:28:63
+Dst Mac: 00:50:56:e7:53:92
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.138
+Dst IP: 114.114.114.114
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 12
+链路层
+Src Mac: 00:50:56:e7:53:92
+Dst Mac: 00:0c:29:42:28:63
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 114.114.114.114
+Dst IP: 192.168.38.138
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 13
+链路层
+Src Mac: 00:0c:29:42:28:63
+Dst Mac: 00:50:56:e7:53:92
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.138
+Dst IP: 114.114.114.114
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 14
+链路层
+Src Mac: 00:50:56:e7:53:92
+Dst Mac: 00:0c:29:42:28:63
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 114.114.114.114
+Dst IP: 192.168.38.138
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 15
+链路层
+Src Mac: 00:0c:29:42:28:63
+Dst Mac: 00:50:56:e7:53:92
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.138
+Dst IP: 114.114.114.114
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 16
+链路层
+Src Mac: 00:0c:29:42:28:63
+Dst Mac: 00:50:56:e7:53:92
+Ethernet Type: 0x0806
+网络层
+ARP Packet Detected
+
+####################
+Packet ID: 17
+链路层
+Src Mac: 00:50:56:e7:53:92
+Dst Mac: 00:0c:29:42:28:63
+Ethernet Type: 0x0806
+网络层
+ARP Packet Detected
+
+####################
+Packet ID: 18
+链路层
+Src Mac: 00:50:56:e7:53:92
+Dst Mac: 00:0c:29:42:28:63
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 114.114.114.114
+Dst IP: 192.168.38.138
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 19
+链路层
+Src Mac: 00:0c:29:42:28:63
+Dst Mac: 00:50:56:e7:53:92
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.138
+Dst IP: 114.114.114.114
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 20
+链路层
+Src Mac: 00:50:56:e7:53:92
+Dst Mac: 00:0c:29:42:28:63
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 114.114.114.114
+Dst IP: 192.168.38.138
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 21
+链路层
+Src Mac: 00:0c:29:42:28:63
+Dst Mac: 00:0c:29:3e:d5:d8
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.138
+Dst IP: 192.168.38.140
+Ip Protocol: 6
+传输层
+TCP Packet Detected
+Src Port: 47508
+Dst Port: 443
+Seq Number: 2483784497
+1746084543
+Flag: 0x10
+Flags:[ACK, ]
+Connection Stage: Connection established or ongoing
+too short for detect http or TLS or DNS
+应用层
+Other Application Protocol based on TCP.
+
+####################
+Packet ID: 22
+链路层
+Src Mac: 00:0c:29:3e:d5:d8
+Dst Mac: 00:0c:29:42:28:63
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.140
+Dst IP: 192.168.38.138
+Ip Protocol: 6
+传输层
+TCP Packet Detected
+Src Port: 443
+Dst Port: 47508
+Seq Number: 1746084543
+2483784498
+Flag: 0x10
+Flags:[ACK, ]
+Connection Stage: Connection established or ongoing
+too short for detect http or TLS or DNS
+应用层
+Other Application Protocol based on TCP.
+
+####################
+Packet ID: 23
+链路层
+Src Mac: 00:0c:29:3e:d5:d8
+Dst Mac: 00:0c:29:42:28:63
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.140
+Dst IP: 192.168.38.138
+Ip Protocol: 6
+传输层
+TCP Packet Detected
+Src Port: 443
+Dst Port: 47508
+Seq Number: 1746084542
+2483784498
+Flag: 0x10
+Flags:[ACK, ]
+Connection Stage: Connection established or ongoing
+too short for detect http or TLS or DNS
+应用层
+Other Application Protocol based on TCP.
+
+####################
+Packet ID: 24
+链路层
+Src Mac: 00:0c:29:42:28:63
+Dst Mac: 00:50:56:e7:53:92
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.138
+Dst IP: 114.114.114.114
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 25
+链路层
+Src Mac: 00:0c:29:42:28:63
+Dst Mac: 00:0c:29:3e:d5:d8
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.138
+Dst IP: 192.168.38.140
+Ip Protocol: 6
+传输层
+TCP Packet Detected
+Src Port: 47508
+Dst Port: 443
+Seq Number: 2483784498
+1746084543
+Flag: 0x10
+Flags:[ACK, ]
+Connection Stage: Connection established or ongoing
+too short for detect http or TLS or DNS
+应用层
+Other Application Protocol based on TCP.
+
+####################
+Packet ID: 26
+链路层
+Src Mac: 00:50:56:e7:53:92
+Dst Mac: 00:0c:29:42:28:63
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 114.114.114.114
+Dst IP: 192.168.38.138
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 27
+链路层
+Src Mac: 00:0c:29:42:28:63
+Dst Mac: 00:50:56:e7:53:92
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.138
+Dst IP: 114.114.114.114
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 28
+链路层
+Src Mac: 00:50:56:e7:53:92
+Dst Mac: 00:0c:29:42:28:63
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 114.114.114.114
+Dst IP: 192.168.38.138
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 29
+链路层
+Src Mac: 00:0c:29:42:28:63
+Dst Mac: 00:50:56:e7:53:92
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.138
+Dst IP: 114.114.114.114
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 30
+链路层
+Src Mac: 00:50:56:e7:53:92
+Dst Mac: 00:0c:29:42:28:63
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 114.114.114.114
+Dst IP: 192.168.38.138
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 31
+链路层
+Src Mac: 00:0c:29:42:28:63
+Dst Mac: 00:50:56:e7:53:92
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.138
+Dst IP: 114.114.114.114
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 32
+链路层
+Src Mac: 00:50:56:e7:53:92
+Dst Mac: 00:0c:29:42:28:63
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 114.114.114.114
+Dst IP: 192.168.38.138
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 33
+链路层
+Src Mac: 00:0c:29:42:28:63
+Dst Mac: 00:50:56:e7:53:92
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.138
+Dst IP: 114.114.114.114
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 34
+链路层
+Src Mac: 00:50:56:e7:53:92
+Dst Mac: 00:0c:29:42:28:63
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 114.114.114.114
+Dst IP: 192.168.38.138
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 35
+链路层
+Src Mac: 00:0c:29:42:28:63
+Dst Mac: 00:50:56:e7:53:92
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.138
+Dst IP: 114.114.114.114
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 36
+链路层
+Src Mac: 00:50:56:e7:53:92
+Dst Mac: 00:0c:29:42:28:63
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 114.114.114.114
+Dst IP: 192.168.38.138
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 37
+链路层
+Src Mac: 00:0c:29:42:28:63
+Dst Mac: 00:50:56:e7:53:92
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.138
+Dst IP: 114.114.114.114
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 38
+链路层
+Src Mac: 00:50:56:e7:53:92
+Dst Mac: 00:0c:29:42:28:63
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 114.114.114.114
+Dst IP: 192.168.38.138
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 39
+链路层
+Src Mac: 00:0c:29:42:28:63
+Dst Mac: 00:50:56:e7:53:92
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.138
+Dst IP: 114.114.114.114
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 40
+链路层
+Src Mac: 00:50:56:e7:53:92
+Dst Mac: 00:0c:29:42:28:63
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 114.114.114.114
+Dst IP: 192.168.38.138
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 41
+链路层
+Src Mac: 00:0c:29:42:28:63
+Dst Mac: 00:50:56:e7:53:92
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.138
+Dst IP: 114.114.114.114
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 42
+链路层
+Src Mac: 00:50:56:e7:53:92
+Dst Mac: 00:0c:29:42:28:63
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 114.114.114.114
+Dst IP: 192.168.38.138
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 43
+链路层
+Src Mac: 00:0c:29:42:28:63
+Dst Mac: 00:50:56:e7:53:92
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.138
+Dst IP: 114.114.114.114
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 44
+链路层
+Src Mac: 00:50:56:e7:53:92
+Dst Mac: 00:0c:29:42:28:63
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 114.114.114.114
+Dst IP: 192.168.38.138
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 45
+链路层
+Src Mac: 00:0c:29:42:28:63
+Dst Mac: 00:50:56:e7:53:92
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.138
+Dst IP: 114.114.114.114
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 46
+链路层
+Src Mac: 00:50:56:e7:53:92
+Dst Mac: 00:0c:29:42:28:63
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 114.114.114.114
+Dst IP: 192.168.38.138
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 47
+链路层
+Src Mac: 00:0c:29:42:28:63
+Dst Mac: 00:50:56:e7:53:92
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.138
+Dst IP: 114.114.114.114
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 48
+链路层
+Src Mac: 00:50:56:e7:53:92
+Dst Mac: 00:0c:29:42:28:63
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 114.114.114.114
+Dst IP: 192.168.38.138
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 49
+链路层
+Src Mac: 00:0c:29:42:28:63
+Dst Mac: 00:50:56:e7:53:92
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.138
+Dst IP: 114.114.114.114
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 50
+链路层
+Src Mac: 00:50:56:e7:53:92
+Dst Mac: 00:0c:29:42:28:63
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 114.114.114.114
+Dst IP: 192.168.38.138
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 51
+链路层
+Src Mac: 00:0c:29:42:28:63
+Dst Mac: 00:50:56:e7:53:92
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.138
+Dst IP: 114.114.114.114
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 52
+链路层
+Src Mac: 00:50:56:e7:53:92
+Dst Mac: 00:0c:29:42:28:63
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 114.114.114.114
+Dst IP: 192.168.38.138
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 53
+链路层
+Src Mac: 00:0c:29:42:28:63
+Dst Mac: 00:50:56:e7:53:92
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.138
+Dst IP: 114.114.114.114
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 54
+链路层
+Src Mac: 00:50:56:e7:53:92
+Dst Mac: 00:0c:29:42:28:63
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 114.114.114.114
+Dst IP: 192.168.38.138
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 55
+链路层
+Src Mac: 00:0c:29:3e:d5:d8
+Dst Mac: 00:0c:29:42:28:63
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.140
+Dst IP: 192.168.38.138
+Ip Protocol: 6
+传输层
+TCP Packet Detected
+Src Port: 443
+Dst Port: 47508
+Seq Number: 1746084543
+2483784498
+Flag: 0x18
+Flags:[PSH, ACK, ]
+Connection Stage: Connection established or ongoing
+应用层
+Other Application Protocol based on TCP.
+
+####################
+Packet ID: 56
+链路层
+Src Mac: 00:0c:29:42:28:63
+Dst Mac: 00:0c:29:3e:d5:d8
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.138
+Dst IP: 192.168.38.140
+Ip Protocol: 6
+传输层
+TCP Packet Detected
+Src Port: 47508
+Dst Port: 443
+Seq Number: 2483784498
+1746084582
+Flag: 0x10
+Flags:[ACK, ]
+Connection Stage: Connection established or ongoing
+too short for detect http or TLS or DNS
+应用层
+Other Application Protocol based on TCP.
+
+####################
+Packet ID: 57
+链路层
+Src Mac: 00:0c:29:42:28:63
+Dst Mac: 00:50:56:e7:53:92
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.138
+Dst IP: 114.114.114.114
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 58
+链路层
+Src Mac: 00:50:56:e7:53:92
+Dst Mac: 00:0c:29:42:28:63
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 114.114.114.114
+Dst IP: 192.168.38.138
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 59
+链路层
+Src Mac: 00:0c:29:3e:d5:d8
+Dst Mac: 00:0c:29:42:28:63
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.140
+Dst IP: 192.168.38.138
+Ip Protocol: 6
+传输层
+TCP Packet Detected
+Src Port: 443
+Dst Port: 47508
+Seq Number: 1746084582
+2483784498
+Flag: 0x18
+Flags:[PSH, ACK, ]
+Connection Stage: Connection established or ongoing
+应用层
+Other Application Protocol based on TCP.
+
+####################
+Packet ID: 60
+链路层
+Src Mac: 00:0c:29:3e:d5:d8
+Dst Mac: 00:0c:29:42:28:63
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.140
+Dst IP: 192.168.38.138
+Ip Protocol: 6
+传输层
+TCP Packet Detected
+Src Port: 443
+Dst Port: 47508
+Seq Number: 1746084606
+2483784498
+Flag: 0x11
+Flags:[FIN, ACK, ]
+Connection Stage: Connection established or ongoing
+too short for detect http or TLS or DNS
+应用层
+Other Application Protocol based on TCP.
+
+####################
+Packet ID: 61
+链路层
+Src Mac: 00:0c:29:42:28:63
+Dst Mac: 00:0c:29:3e:d5:d8
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.138
+Dst IP: 192.168.38.140
+Ip Protocol: 6
+传输层
+TCP Packet Detected
+Src Port: 47508
+Dst Port: 443
+Seq Number: 2483784498
+1746084606
+Flag: 0x10
+Flags:[ACK, ]
+Connection Stage: Connection established or ongoing
+too short for detect http or TLS or DNS
+应用层
+Other Application Protocol based on TCP.
+
+####################
+Packet ID: 62
+链路层
+Src Mac: 00:0c:29:42:28:63
+Dst Mac: 00:0c:29:3e:d5:d8
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.138
+Dst IP: 192.168.38.140
+Ip Protocol: 6
+传输层
+TCP Packet Detected
+Src Port: 47508
+Dst Port: 443
+Seq Number: 2483784498
+1746084607
+Flag: 0x18
+Flags:[PSH, ACK, ]
+Connection Stage: Connection established or ongoing
+应用层
+Other Application Protocol based on TCP.
+
+####################
+Packet ID: 63
+链路层
+Src Mac: 00:0c:29:42:28:63
+Dst Mac: 00:0c:29:3e:d5:d8
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.138
+Dst IP: 192.168.38.140
+Ip Protocol: 6
+传输层
+TCP Packet Detected
+Src Port: 47508
+Dst Port: 443
+Seq Number: 2483784522
+1746084607
+Flag: 0x11
+Flags:[FIN, ACK, ]
+Connection Stage: Connection established or ongoing
+too short for detect http or TLS or DNS
+应用层
+Other Application Protocol based on TCP.
+
+####################
+Packet ID: 64
+链路层
+Src Mac: 00:0c:29:3e:d5:d8
+Dst Mac: 00:0c:29:42:28:63
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.140
+Dst IP: 192.168.38.138
+Ip Protocol: 6
+传输层
+TCP Packet Detected
+Src Port: 443
+Dst Port: 47508
+Seq Number: 1746084607
+0
+Flag: 0x04
+Flags:[RST, ]
+too short for detect http or TLS or DNS
+应用层
+Other Application Protocol based on TCP.
+
+####################
+Packet ID: 65
+链路层
+Src Mac: 00:0c:29:3e:d5:d8
+Dst Mac: 00:0c:29:42:28:63
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.140
+Dst IP: 192.168.38.138
+Ip Protocol: 6
+传输层
+TCP Packet Detected
+Src Port: 443
+Dst Port: 47508
+Seq Number: 1746084607
+0
+Flag: 0x04
+Flags:[RST, ]
+too short for detect http or TLS or DNS
+应用层
+Other Application Protocol based on TCP.
+
+####################
+Packet ID: 66
+链路层
+Src Mac: 00:0c:29:42:28:63
+Dst Mac: 00:50:56:e7:53:92
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.138
+Dst IP: 114.114.114.114
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 67
+链路层
+Src Mac: 00:50:56:e7:53:92
+Dst Mac: 00:0c:29:42:28:63
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 114.114.114.114
+Dst IP: 192.168.38.138
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 68
+链路层
+Src Mac: 00:0c:29:42:28:63
+Dst Mac: 00:0c:29:3e:d5:d8
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.138
+Dst IP: 192.168.38.140
+Ip Protocol: 6
+传输层
+TCP Packet Detected
+Src Port: 37682
+Dst Port: 443
+Seq Number: 1932489347
+0
+Flag: 0x02
+Flags:[SYN, ]
+Connection Stage: Connection initiation
+too short for detect http or TLS or DNS
+应用层
+Other Application Protocol based on TCP.
+
+####################
+Packet ID: 69
+链路层
+Src Mac: 00:0c:29:3e:d5:d8
+Dst Mac: 00:0c:29:42:28:63
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.140
+Dst IP: 192.168.38.138
+Ip Protocol: 6
+传输层
+TCP Packet Detected
+Src Port: 443
+Dst Port: 37682
+Seq Number: 2517047321
+1932489348
+Flag: 0x12
+Flags:[SYN, ACK, ]
+Connection Stage: SYN-ACK
+too short for detect http or TLS or DNS
+应用层
+Other Application Protocol based on TCP.
+
+####################
+Packet ID: 70
+链路层
+Src Mac: 00:0c:29:42:28:63
+Dst Mac: 00:0c:29:3e:d5:d8
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.138
+Dst IP: 192.168.38.140
+Ip Protocol: 6
+传输层
+TCP Packet Detected
+Src Port: 37682
+Dst Port: 443
+Seq Number: 1932489348
+2517047322
+Flag: 0x10
+Flags:[ACK, ]
+Connection Stage: Connection established or ongoing
+too short for detect http or TLS or DNS
+应用层
+Other Application Protocol based on TCP.
+
+####################
+Packet ID: 71
+链路层
+Src Mac: 00:0c:29:42:28:63
+Dst Mac: 00:0c:29:3e:d5:d8
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.138
+Dst IP: 192.168.38.140
+Ip Protocol: 6
+传输层
+TCP Packet Detected
+Src Port: 37682
+Dst Port: 443
+Seq Number: 1932489348
+2517047322
+Flag: 0x18
+Flags:[PSH, ACK, ]
+Connection Stage: Connection established or ongoing
+应用层
+Other Application Protocol based on TCP.
+
+####################
+Packet ID: 72
+链路层
+Src Mac: 00:0c:29:3e:d5:d8
+Dst Mac: 00:0c:29:42:28:63
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.140
+Dst IP: 192.168.38.138
+Ip Protocol: 6
+传输层
+TCP Packet Detected
+Src Port: 443
+Dst Port: 37682
+Seq Number: 2517047322
+1932489572
+Flag: 0x10
+Flags:[ACK, ]
+Connection Stage: Connection established or ongoing
+too short for detect http or TLS or DNS
+应用层
+Other Application Protocol based on TCP.
+
+####################
+Packet ID: 73
+链路层
+Src Mac: 00:0c:29:3e:d5:d8
+Dst Mac: 00:0c:29:42:28:63
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.140
+Dst IP: 192.168.38.138
+Ip Protocol: 6
+传输层
+TCP Packet Detected
+Src Port: 443
+Dst Port: 37682
+Seq Number: 2517047322
+1932489572
+Flag: 0x18
+Flags:[PSH, ACK, ]
+Connection Stage: Connection established or ongoing
+应用层
+Other Application Protocol based on TCP.
+
+####################
+Packet ID: 74
+链路层
+Src Mac: 00:0c:29:42:28:63
+Dst Mac: 00:0c:29:3e:d5:d8
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.138
+Dst IP: 192.168.38.140
+Ip Protocol: 6
+传输层
+TCP Packet Detected
+Src Port: 37682
+Dst Port: 443
+Seq Number: 1932489572
+2517049346
+Flag: 0x10
+Flags:[ACK, ]
+Connection Stage: Connection established or ongoing
+too short for detect http or TLS or DNS
+应用层
+Other Application Protocol based on TCP.
+
+####################
+Packet ID: 75
+链路层
+Src Mac: 00:0c:29:42:28:63
+Dst Mac: 00:0c:29:3e:d5:d8
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.138
+Dst IP: 192.168.38.140
+Ip Protocol: 6
+传输层
+TCP Packet Detected
+Src Port: 37682
+Dst Port: 443
+Seq Number: 1932489572
+2517049346
+Flag: 0x18
+Flags:[PSH, ACK, ]
+Connection Stage: Connection established or ongoing
+应用层
+Other Application Protocol based on TCP.
+
+####################
+Packet ID: 76
+链路层
+Src Mac: 00:0c:29:42:28:63
+Dst Mac: 00:0c:29:3e:d5:d8
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.138
+Dst IP: 192.168.38.140
+Ip Protocol: 6
+传输层
+TCP Packet Detected
+Src Port: 37682
+Dst Port: 443
+Seq Number: 1932489636
+2517049346
+Flag: 0x18
+Flags:[PSH, ACK, ]
+Connection Stage: Connection established or ongoing
+应用层
+Other Application Protocol based on TCP.
+
+####################
+Packet ID: 77
+链路层
+Src Mac: 00:0c:29:42:28:63
+Dst Mac: 00:0c:29:3e:d5:d8
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.138
+Dst IP: 192.168.38.140
+Ip Protocol: 6
+传输层
+TCP Packet Detected
+Src Port: 37682
+Dst Port: 443
+Seq Number: 1932489722
+2517049346
+Flag: 0x18
+Flags:[PSH, ACK, ]
+Connection Stage: Connection established or ongoing
+应用层
+Other Application Protocol based on TCP.
+
+####################
+Packet ID: 78
+链路层
+Src Mac: 00:0c:29:3e:d5:d8
+Dst Mac: 00:0c:29:42:28:63
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.140
+Dst IP: 192.168.38.138
+Ip Protocol: 6
+传输层
+TCP Packet Detected
+Src Port: 443
+Dst Port: 37682
+Seq Number: 2517049346
+1932490228
+Flag: 0x10
+Flags:[ACK, ]
+Connection Stage: Connection established or ongoing
+too short for detect http or TLS or DNS
+应用层
+Other Application Protocol based on TCP.
+
+####################
+Packet ID: 79
+链路层
+Src Mac: 00:0c:29:42:28:63
+Dst Mac: 00:0c:29:3e:d5:d8
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.138
+Dst IP: 192.168.38.140
+Ip Protocol: 6
+传输层
+TCP Packet Detected
+Src Port: 37682
+Dst Port: 443
+Seq Number: 1932490228
+2517049346
+Flag: 0x18
+Flags:[PSH, ACK, ]
+Connection Stage: Connection established or ongoing
+应用层
+Other Application Protocol based on TCP.
+
+####################
+Packet ID: 80
+链路层
+Src Mac: 00:0c:29:3e:d5:d8
+Dst Mac: 00:0c:29:42:28:63
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.140
+Dst IP: 192.168.38.138
+Ip Protocol: 6
+传输层
+TCP Packet Detected
+Src Port: 443
+Dst Port: 37682
+Seq Number: 2517049346
+1932492497
+Flag: 0x10
+Flags:[ACK, ]
+Connection Stage: Connection established or ongoing
+too short for detect http or TLS or DNS
+应用层
+Other Application Protocol based on TCP.
+
+####################
+Packet ID: 81
+链路层
+Src Mac: 00:0c:29:3e:d5:d8
+Dst Mac: 00:0c:29:42:28:63
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.140
+Dst IP: 192.168.38.138
+Ip Protocol: 6
+传输层
+TCP Packet Detected
+Src Port: 443
+Dst Port: 37682
+Seq Number: 2517049346
+1932492497
+Flag: 0x18
+Flags:[PSH, ACK, ]
+Connection Stage: Connection established or ongoing
+应用层
+Other Application Protocol based on TCP.
+
+####################
+Packet ID: 82
+链路层
+Src Mac: 00:0c:29:3e:d5:d8
+Dst Mac: 00:0c:29:42:28:63
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.140
+Dst IP: 192.168.38.138
+Ip Protocol: 6
+传输层
+TCP Packet Detected
+Src Port: 443
+Dst Port: 37682
+Seq Number: 2517049407
+1932492497
+Flag: 0x18
+Flags:[PSH, ACK, ]
+Connection Stage: Connection established or ongoing
+应用层
+Other Application Protocol based on TCP.
+
+####################
+Packet ID: 83
+链路层
+Src Mac: 00:0c:29:42:28:63
+Dst Mac: 00:0c:29:3e:d5:d8
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.138
+Dst IP: 192.168.38.140
+Ip Protocol: 6
+传输层
+TCP Packet Detected
+Src Port: 37682
+Dst Port: 443
+Seq Number: 1932492497
+2517049451
+Flag: 0x18
+Flags:[PSH, ACK, ]
+Connection Stage: Connection established or ongoing
+应用层
+Other Application Protocol based on TCP.
+
+####################
+Packet ID: 84
+链路层
+Src Mac: 00:0c:29:3e:d5:d8
+Dst Mac: 00:0c:29:42:28:63
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.140
+Dst IP: 192.168.38.138
+Ip Protocol: 6
+传输层
+TCP Packet Detected
+Src Port: 443
+Dst Port: 37682
+Seq Number: 2517049451
+1932492528
+Flag: 0x18
+Flags:[PSH, ACK, ]
+Connection Stage: Connection established or ongoing
+应用层
+Other Application Protocol based on TCP.
+
+####################
+Packet ID: 85
+链路层
+Src Mac: 00:0c:29:3e:d5:d8
+Dst Mac: 00:0c:29:42:28:63
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.140
+Dst IP: 192.168.38.138
+Ip Protocol: 6
+传输层
+TCP Packet Detected
+Src Port: 443
+Dst Port: 37682
+Seq Number: 2517049525
+1932492528
+Flag: 0x18
+Flags:[PSH, ACK, ]
+Connection Stage: Connection established or ongoing
+应用层
+Other Application Protocol based on TCP.
+
+####################
+Packet ID: 86
+链路层
+Src Mac: 00:0c:29:3e:d5:d8
+Dst Mac: 00:0c:29:42:28:63
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.140
+Dst IP: 192.168.38.138
+Ip Protocol: 6
+传输层
+TCP Packet Detected
+Src Port: 443
+Dst Port: 37682
+Seq Number: 2517054291
+1932492528
+Flag: 0x18
+Flags:[PSH, ACK, ]
+Connection Stage: Connection established or ongoing
+应用层
+Other Application Protocol based on TCP.
+
+####################
+Packet ID: 87
+链路层
+Src Mac: 00:0c:29:3e:d5:d8
+Dst Mac: 00:0c:29:42:28:63
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.140
+Dst IP: 192.168.38.138
+Ip Protocol: 6
+传输层
+TCP Packet Detected
+Src Port: 443
+Dst Port: 37682
+Seq Number: 2517054912
+1932492528
+Flag: 0x18
+Flags:[PSH, ACK, ]
+Connection Stage: Connection established or ongoing
+应用层
+Other Application Protocol based on TCP.
+
+####################
+Packet ID: 88
+链路层
+Src Mac: 00:0c:29:42:28:63
+Dst Mac: 00:0c:29:3e:d5:d8
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.138
+Dst IP: 192.168.38.140
+Ip Protocol: 6
+传输层
+TCP Packet Detected
+Src Port: 37682
+Dst Port: 443
+Seq Number: 1932492528
+2517054912
+Flag: 0x10
+Flags:[ACK, ]
+Connection Stage: Connection established or ongoing
+too short for detect http or TLS or DNS
+应用层
+Other Application Protocol based on TCP.
+
+####################
+Packet ID: 89
+链路层
+Src Mac: 00:0c:29:42:28:63
+Dst Mac: 00:0c:29:3e:d5:d8
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.138
+Dst IP: 192.168.38.140
+Ip Protocol: 6
+传输层
+TCP Packet Detected
+Src Port: 37682
+Dst Port: 443
+Seq Number: 1932492528
+2517054943
+Flag: 0x18
+Flags:[PSH, ACK, ]
+Connection Stage: Connection established or ongoing
+应用层
+Other Application Protocol based on TCP.
+
+####################
+Packet ID: 90
+链路层
+Src Mac: 00:0c:29:42:28:63
+Dst Mac: 00:50:56:e7:53:92
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.138
+Dst IP: 114.114.114.114
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 91
+链路层
+Src Mac: 00:50:56:e7:53:92
+Dst Mac: 00:0c:29:42:28:63
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 114.114.114.114
+Dst IP: 192.168.38.138
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 92
+链路层
+Src Mac: 00:0c:29:3e:d5:d8
+Dst Mac: 00:0c:29:42:28:63
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.140
+Dst IP: 192.168.38.138
+Ip Protocol: 6
+传输层
+TCP Packet Detected
+Src Port: 443
+Dst Port: 37682
+Seq Number: 2517054943
+1932492576
+Flag: 0x10
+Flags:[ACK, ]
+Connection Stage: Connection established or ongoing
+too short for detect http or TLS or DNS
+应用层
+Other Application Protocol based on TCP.
+
+####################
+Packet ID: 93
+链路层
+Src Mac: 00:0c:29:42:28:63
+Dst Mac: 00:50:56:e7:53:92
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.138
+Dst IP: 114.114.114.114
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 94
+链路层
+Src Mac: 00:50:56:e7:53:92
+Dst Mac: 00:0c:29:42:28:63
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 114.114.114.114
+Dst IP: 192.168.38.138
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 95
+链路层
+Src Mac: 00:0c:29:42:28:63
+Dst Mac: 00:50:56:e7:53:92
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.138
+Dst IP: 114.114.114.114
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 96
+链路层
+Src Mac: 00:50:56:e7:53:92
+Dst Mac: 00:0c:29:42:28:63
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 114.114.114.114
+Dst IP: 192.168.38.138
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 97
+链路层
+Src Mac: 00:0c:29:42:28:63
+Dst Mac: 00:50:56:e7:53:92
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.138
+Dst IP: 114.114.114.114
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 98
+链路层
+Src Mac: 00:50:56:e7:53:92
+Dst Mac: 00:0c:29:42:28:63
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 114.114.114.114
+Dst IP: 192.168.38.138
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 99
+链路层
+Src Mac: 00:0c:29:42:28:63
+Dst Mac: 00:50:56:e7:53:92
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.138
+Dst IP: 114.114.114.114
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 100
+链路层
+Src Mac: 00:50:56:e7:53:92
+Dst Mac: 00:0c:29:42:28:63
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 114.114.114.114
+Dst IP: 192.168.38.138
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 101
+链路层
+Src Mac: 00:0c:29:42:28:63
+Dst Mac: 00:50:56:e7:53:92
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.138
+Dst IP: 114.114.114.114
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 102
+链路层
+Src Mac: 00:50:56:e7:53:92
+Dst Mac: 00:0c:29:42:28:63
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 114.114.114.114
+Dst IP: 192.168.38.138
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 103
+链路层
+Src Mac: 00:0c:29:42:28:63
+Dst Mac: 00:50:56:e7:53:92
+Ethernet Type: 0x0806
+网络层
+ARP Packet Detected
+
+####################
+Packet ID: 104
+链路层
+Src Mac: 00:50:56:e7:53:92
+Dst Mac: 00:0c:29:42:28:63
+Ethernet Type: 0x0806
+网络层
+ARP Packet Detected
+
+####################
+Packet ID: 105
+链路层
+Src Mac: 00:0c:29:42:28:63
+Dst Mac: 00:50:56:e7:53:92
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.138
+Dst IP: 114.114.114.114
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 106
+链路层
+Src Mac: 00:50:56:e7:53:92
+Dst Mac: 00:0c:29:42:28:63
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 114.114.114.114
+Dst IP: 192.168.38.138
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 107
+链路层
+Src Mac: 00:0c:29:42:28:63
+Dst Mac: 00:50:56:e7:53:92
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.138
+Dst IP: 114.114.114.114
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 108
+链路层
+Src Mac: 00:50:56:e7:53:92
+Dst Mac: 00:0c:29:42:28:63
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 114.114.114.114
+Dst IP: 192.168.38.138
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 109
+链路层
+Src Mac: 00:0c:29:42:28:63
+Dst Mac: 00:50:56:e7:53:92
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.138
+Dst IP: 114.114.114.114
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 110
+链路层
+Src Mac: 00:50:56:e7:53:92
+Dst Mac: 00:0c:29:42:28:63
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 114.114.114.114
+Dst IP: 192.168.38.138
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 111
+链路层
+Src Mac: 00:0c:29:42:28:63
+Dst Mac: 00:50:56:e7:53:92
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.138
+Dst IP: 114.114.114.114
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 112
+链路层
+Src Mac: 00:50:56:e7:53:92
+Dst Mac: 00:0c:29:42:28:63
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 114.114.114.114
+Dst IP: 192.168.38.138
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 113
+链路层
+Src Mac: 00:0c:29:42:28:63
+Dst Mac: 00:50:56:e7:53:92
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.138
+Dst IP: 114.114.114.114
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 114
+链路层
+Src Mac: 00:50:56:e7:53:92
+Dst Mac: 00:0c:29:42:28:63
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 114.114.114.114
+Dst IP: 192.168.38.138
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 115
+链路层
+Src Mac: 00:0c:29:42:28:63
+Dst Mac: 00:50:56:e7:53:92
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.138
+Dst IP: 114.114.114.114
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 116
+链路层
+Src Mac: 00:50:56:e7:53:92
+Dst Mac: 00:0c:29:42:28:63
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 114.114.114.114
+Dst IP: 192.168.38.138
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 117
+链路层
+Src Mac: 00:0c:29:42:28:63
+Dst Mac: 00:50:56:e7:53:92
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.138
+Dst IP: 114.114.114.114
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 118
+链路层
+Src Mac: 00:50:56:e7:53:92
+Dst Mac: 00:0c:29:42:28:63
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 114.114.114.114
+Dst IP: 192.168.38.138
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 119
+链路层
+Src Mac: 00:0c:29:42:28:63
+Dst Mac: 00:50:56:e7:53:92
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.138
+Dst IP: 114.114.114.114
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 120
+链路层
+Src Mac: 00:50:56:e7:53:92
+Dst Mac: 00:0c:29:42:28:63
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 114.114.114.114
+Dst IP: 192.168.38.138
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 121
+链路层
+Src Mac: 00:0c:29:42:28:63
+Dst Mac: 00:50:56:e7:53:92
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.138
+Dst IP: 114.114.114.114
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 122
+链路层
+Src Mac: 00:50:56:e7:53:92
+Dst Mac: 00:0c:29:42:28:63
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 114.114.114.114
+Dst IP: 192.168.38.138
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 123
+链路层
+Src Mac: 00:0c:29:42:28:63
+Dst Mac: 00:50:56:e7:53:92
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.138
+Dst IP: 114.114.114.114
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 124
+链路层
+Src Mac: 00:50:56:e7:53:92
+Dst Mac: 00:0c:29:42:28:63
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 114.114.114.114
+Dst IP: 192.168.38.138
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 125
+链路层
+Src Mac: 00:0c:29:42:28:63
+Dst Mac: 00:50:56:e7:53:92
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.138
+Dst IP: 114.114.114.114
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 126
+链路层
+Src Mac: 00:50:56:e7:53:92
+Dst Mac: 00:0c:29:42:28:63
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 114.114.114.114
+Dst IP: 192.168.38.138
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 127
+链路层
+Src Mac: 00:0c:29:42:28:63
+Dst Mac: 00:50:56:e7:53:92
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.138
+Dst IP: 114.114.114.114
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 128
+链路层
+Src Mac: 00:50:56:e7:53:92
+Dst Mac: 00:0c:29:42:28:63
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 114.114.114.114
+Dst IP: 192.168.38.138
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 129
+链路层
+Src Mac: 00:0c:29:42:28:63
+Dst Mac: 00:50:56:e7:53:92
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.138
+Dst IP: 114.114.114.114
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 130
+链路层
+Src Mac: 00:50:56:e7:53:92
+Dst Mac: 00:0c:29:42:28:63
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 114.114.114.114
+Dst IP: 192.168.38.138
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 131
+链路层
+Src Mac: 00:0c:29:42:28:63
+Dst Mac: 00:50:56:e7:53:92
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.138
+Dst IP: 114.114.114.114
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 132
+链路层
+Src Mac: 00:50:56:e7:53:92
+Dst Mac: 00:0c:29:42:28:63
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 114.114.114.114
+Dst IP: 192.168.38.138
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 133
+链路层
+Src Mac: 00:0c:29:42:28:63
+Dst Mac: 00:50:56:e7:53:92
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.138
+Dst IP: 114.114.114.114
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 134
+链路层
+Src Mac: 00:50:56:e7:53:92
+Dst Mac: 00:0c:29:42:28:63
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 114.114.114.114
+Dst IP: 192.168.38.138
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 135
+链路层
+Src Mac: 00:0c:29:42:28:63
+Dst Mac: 00:50:56:e7:53:92
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.138
+Dst IP: 114.114.114.114
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 136
+链路层
+Src Mac: 00:50:56:e7:53:92
+Dst Mac: 00:0c:29:42:28:63
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 114.114.114.114
+Dst IP: 192.168.38.138
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 137
+链路层
+Src Mac: 00:0c:29:42:28:63
+Dst Mac: 00:50:56:e7:53:92
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.138
+Dst IP: 114.114.114.114
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 138
+链路层
+Src Mac: 00:50:56:e7:53:92
+Dst Mac: 00:0c:29:42:28:63
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 114.114.114.114
+Dst IP: 192.168.38.138
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 139
+链路层
+Src Mac: 00:0c:29:42:28:63
+Dst Mac: 00:50:56:e7:53:92
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.138
+Dst IP: 114.114.114.114
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 140
+链路层
+Src Mac: 00:50:56:e7:53:92
+Dst Mac: 00:0c:29:42:28:63
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 114.114.114.114
+Dst IP: 192.168.38.138
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 141
+链路层
+Src Mac: 00:0c:29:42:28:63
+Dst Mac: 00:50:56:e7:53:92
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.138
+Dst IP: 114.114.114.114
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 142
+链路层
+Src Mac: 00:50:56:e7:53:92
+Dst Mac: 00:0c:29:42:28:63
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 114.114.114.114
+Dst IP: 192.168.38.138
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 143
+链路层
+Src Mac: 00:0c:29:42:28:63
+Dst Mac: 00:50:56:e7:53:92
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.138
+Dst IP: 114.114.114.114
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 144
+链路层
+Src Mac: 00:50:56:e7:53:92
+Dst Mac: 00:0c:29:42:28:63
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 114.114.114.114
+Dst IP: 192.168.38.138
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 145
+链路层
+Src Mac: 00:0c:29:42:28:63
+Dst Mac: 00:50:56:e7:53:92
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.138
+Dst IP: 114.114.114.114
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 146
+链路层
+Src Mac: 00:50:56:e7:53:92
+Dst Mac: 00:0c:29:42:28:63
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 114.114.114.114
+Dst IP: 192.168.38.138
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 147
+链路层
+Src Mac: 00:0c:29:42:28:63
+Dst Mac: 00:50:56:e7:53:92
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.138
+Dst IP: 114.114.114.114
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 148
+链路层
+Src Mac: 00:50:56:e7:53:92
+Dst Mac: 00:0c:29:42:28:63
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 114.114.114.114
+Dst IP: 192.168.38.138
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 149
+链路层
+Src Mac: 00:0c:29:42:28:63
+Dst Mac: 00:50:56:e7:53:92
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.138
+Dst IP: 114.114.114.114
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 150
+链路层
+Src Mac: 00:50:56:e7:53:92
+Dst Mac: 00:0c:29:42:28:63
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 114.114.114.114
+Dst IP: 192.168.38.138
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 151
+链路层
+Src Mac: 00:0c:29:3e:d5:d8
+Dst Mac: 00:0c:29:42:28:63
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.140
+Dst IP: 192.168.38.138
+Ip Protocol: 6
+传输层
+TCP Packet Detected
+Src Port: 443
+Dst Port: 37682
+Seq Number: 2517054942
+1932492576
+Flag: 0x10
+Flags:[ACK, ]
+Connection Stage: Connection established or ongoing
+too short for detect http or TLS or DNS
+应用层
+Other Application Protocol based on TCP.
+
+####################
+Packet ID: 152
+链路层
+Src Mac: 00:0c:29:42:28:63
+Dst Mac: 00:0c:29:3e:d5:d8
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.138
+Dst IP: 192.168.38.140
+Ip Protocol: 6
+传输层
+TCP Packet Detected
+Src Port: 37682
+Dst Port: 443
+Seq Number: 1932492576
+2517054943
+Flag: 0x10
+Flags:[ACK, ]
+Connection Stage: Connection established or ongoing
+too short for detect http or TLS or DNS
+应用层
+Other Application Protocol based on TCP.
+
+####################
+Packet ID: 153
+链路层
+Src Mac: 00:0c:29:42:28:63
+Dst Mac: 00:0c:29:3e:d5:d8
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.138
+Dst IP: 192.168.38.140
+Ip Protocol: 6
+传输层
+TCP Packet Detected
+Src Port: 37682
+Dst Port: 443
+Seq Number: 1932492575
+2517054943
+Flag: 0x10
+Flags:[ACK, ]
+Connection Stage: Connection established or ongoing
+too short for detect http or TLS or DNS
+应用层
+Other Application Protocol based on TCP.
+
+####################
+Packet ID: 154
+链路层
+Src Mac: 00:0c:29:3e:d5:d8
+Dst Mac: 00:0c:29:42:28:63
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.140
+Dst IP: 192.168.38.138
+Ip Protocol: 6
+传输层
+TCP Packet Detected
+Src Port: 443
+Dst Port: 37682
+Seq Number: 2517054943
+1932492576
+Flag: 0x10
+Flags:[ACK, ]
+Connection Stage: Connection established or ongoing
+too short for detect http or TLS or DNS
+应用层
+Other Application Protocol based on TCP.
+
+####################
+Packet ID: 155
+链路层
+Src Mac: 00:0c:29:42:28:63
+Dst Mac: 00:50:56:e7:53:92
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.138
+Dst IP: 114.114.114.114
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 156
+链路层
+Src Mac: 00:50:56:e7:53:92
+Dst Mac: 00:0c:29:42:28:63
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 114.114.114.114
+Dst IP: 192.168.38.138
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 157
+链路层
+Src Mac: 00:0c:29:42:28:63
+Dst Mac: 00:50:56:e7:53:92
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 192.168.38.138
+Dst IP: 114.114.114.114
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+####################
+Packet ID: 158
+链路层
+Src Mac: 00:50:56:e7:53:92
+Dst Mac: 00:0c:29:42:28:63
+Ethernet Type: 0x0800
+网络层
+IP Packet Detected
+Src IP: 114.114.114.114
+Dst IP: 192.168.38.138
+Ip Protocol: 1
+传输层
+ICMP Packet Detected
+
+read end of pcap file
